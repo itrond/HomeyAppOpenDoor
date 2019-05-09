@@ -16,7 +16,6 @@ yarn run build
 ```
 
 ### Adjust for your Homey Setup
-```
 [Make your .env.local base on this](https://github.com/itrond/HomeyAppOpenDoor/blob/master/.example.env.local)
-```
+
 
