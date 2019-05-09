@@ -1,5 +1,9 @@
 # openthedoorhomey
 
+This is the source code for a web app to open the door using Homey and Danalock.
+
+[This blogpost describes how to set up Homey to accomplish this](https://medium.com/@itrond/unlock-your-door-with-you-phone-eadda0d9e068)
+
 ## Project setup
 ```
 yarn install
