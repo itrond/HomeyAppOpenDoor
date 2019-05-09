@@ -12,10 +12,14 @@
         v-on:click="unlock"
         class="button is-success is-large"
         v-bind:class="{ 'is-loading': isUnlocking}"
-      >Lås opp</a>
+      >Unlock</a>
       <br>
       <br>
-      <a class="button is-warning is-large" v-on:click="lock">Lås</a>
+      <a
+        class="button is-warning is-large"
+        v-bind:class="{ 'is-loading': isLocking}"
+        v-on:click="lock"
+      >Lock</a>
     </div>
   </section>
 </template>
