@@ -15,15 +15,8 @@ yarn run serve
 yarn run build
 ```
 
-### Run your tests
+### Adjust for your Homey Setup
 ```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+[Make your .env.local base on this](https://github.com/itrond/HomeyAppOpenDoor/blob/master/.example.env.local)
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
